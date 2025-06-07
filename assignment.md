@@ -10,6 +10,8 @@ You will then be brought into contact with the research team behind your task.
 They will take over the day-to-day supervision for the whole semester.
 It is important that you attend the meetings they ask you to attend. 
 Follow their lead, also with respect to how they write their code, what standards they have etc.
+The overall working hours per project should be around 60-80 hours. 
+The distribution of the working time can be negotiated with the team (e.g., two full weeks at once or spread across the semester etc.).
 
 In addition, there are two mandatory milestone meetings, where you should briefly report on your progress, potential obstacles, thoughts, questions etc.
 At the end of the semester, this seminar is concluded with a colloqium.
