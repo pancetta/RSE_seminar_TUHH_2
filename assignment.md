@@ -8,6 +8,8 @@ After this, the bidding phase for the tasks starts, ending with assignments for 
 
 You will then be brought into contact with the research team behind your task. 
 They will take over the day-to-day supervision for the whole semester.
+It is important that you attend the meetings they ask you to attend. 
+Follow their lead, also with respect to how they write their code, what standards they have etc.
 
 In addition, there are two mandatory milestone meetings, where you should briefly report on your progress, potential obstacles, thoughts, questions etc.
 At the end of the semester, this seminar is concluded with a colloqium.
