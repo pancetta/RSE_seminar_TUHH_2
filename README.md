@@ -7,7 +7,7 @@
 How does research software look in practice? How do researchers write and maintain their codes? What obstacles do they face? These questions will be addressed in this seminar.
 
 In this "Winter of Code", participating students will get hands-on experience with cutting-edge research software, giving them a unique glimps of how research software is written, used, maintained, and extended in practice.
-Supervised by researchers from the Helmholtz Association, the students will be working on the researcher's software, a particular application area, and a seminar task from the field of [research software engineering](https://www.fz-juelich.de/en/rse/about/what-is-research-software-engineering).
+Supervised by researchers from the Helmholtz Association, the students will be working on the researcher's software, a particular application area, and a [seminar task](https://github.com/pancetta/RSE_seminar_TUHH_2/issues) from the field of [research software engineering](https://www.fz-juelich.de/en/rse/about/what-is-research-software-engineering).
 This could range from adding a new feature or repairing a long-standing issue to establishing a new continuous integration workflow, improving test coverage or usability.
 
 This repository has all the information necessary for the seminar:
