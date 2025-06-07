@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 > please adapt the title, replacing `my code` and `fix this thing` with something appropriate
+
 > feel free to simply copy and paste one of the existing issues if you like their structure
+
 > no need to work with this issue during the coding phase, this is just for organizing the seminar
 
 # The software
