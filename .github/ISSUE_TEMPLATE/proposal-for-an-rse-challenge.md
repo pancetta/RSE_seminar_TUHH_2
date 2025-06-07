@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-(please adapt the title, replacing `my code` and `fix this thing` with something appropriate)
+> please adapt the title, replacing `my code` and `fix this thing` with something appropriate
+> feel free to simply copy and paste one of the existing issues if you like their structure
 
 # The software
 * briefly describe the software here
