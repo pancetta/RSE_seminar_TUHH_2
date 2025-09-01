@@ -10,6 +10,8 @@ In this "Winter of Code", participating students will get hands-on experience wi
 Supervised by researchers from the Helmholtz Association, the students will be working on the researcher's software, a particular application area, and a [seminar task](https://github.com/pancetta/RSE_seminar_TUHH_2/issues) from the field of [research software engineering](https://www.fz-juelich.de/en/rse/about/what-is-research-software-engineering).
 This could range from adding a new feature or repairing a long-standing issue to establishing a new continuous integration workflow, improving test coverage or usability.
 
+:warning: **Important: If you consider taking this seminar, please make sure you find at least one suitable assignment in the [list of issues](https://github.com/pancetta/RSE_seminar_TUHH_2/issues) before signing up!** :warning:
+
 This repository has all the information necessary for the seminar:
 * The expected [timeline](timeline.md), always subject to change
 * The details on the [assignment](assignment.md)
