@@ -15,4 +15,6 @@ This could range from adding a new feature or repairing a long-standing issue to
 This repository has all the information necessary for the seminar:
 * The expected [timeline](timeline.md), always subject to change
 * The details on the [assignment](assignment.md)
-* The selection of possible projects to choose from
+* The selection of [possible projects](https://github.com/pancetta/RSE_seminar_TUHH_2/issues) to choose from
+* An introductory video here: [https://doi.org/10.5281/zenodo.17433427](https://doi.org/10.5281/zenodo.17433427)
+* The [slides](https://github.com/pancetta/RSE_seminar_TUHH_2/blob/main/RSE_seminar_introduction.pdf) to this introduction
